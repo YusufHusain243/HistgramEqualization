@@ -1,1 +1,1 @@
-# HistgramEqualization
+# HistgramEqualization Using Java
